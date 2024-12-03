@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phaserreact01/static/css/main.0afcf045.css",
+    "main.js": "/phaserreact01/static/js/main.0ba10fbc.js",
+    "index.html": "/phaserreact01/index.html",
+    "main.0afcf045.css.map": "/phaserreact01/static/css/main.0afcf045.css.map",
+    "main.0ba10fbc.js.map": "/phaserreact01/static/js/main.0ba10fbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0afcf045.css",
+    "static/js/main.0ba10fbc.js"
+  ]
+}
